@@ -59,6 +59,6 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"SpectatorVerySmall"
-		"fgcolor"		"White"
+		"fgcolor"		"white"
 	}							
 }
