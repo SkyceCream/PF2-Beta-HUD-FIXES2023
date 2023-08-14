@@ -115,7 +115,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"TFFont"		"HudFontSmall"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"white"
 	}	
 	
 	"AmmoIcon"
